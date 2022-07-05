@@ -6,3 +6,5 @@ Otimizar imagens de uma página web
 2 - npm run na pasta de origem
 
 3 - Visualizar na pasta galeria as URL's com os arquivos JPG e PNG otimizados
+
+obs: lembre de instalar os módulos do node
