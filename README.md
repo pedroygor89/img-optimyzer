@@ -7,4 +7,5 @@ Com esse sistema você pode otimizar todas as imagens presentes em uma URL. As i
 
 3 - Visualizar na pasta galeria as URL's com os arquivos JPG e PNG otimizados
 
-obs: lembre de instalar os módulos do node
+obs: lembre de instalar os módulos do node 
+V1.0.2 "Add verificação de Imagem size"
